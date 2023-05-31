@@ -9,7 +9,7 @@
 * [자바 개발자를 위한 스칼라 맛보기 강의](https://inf.run/YPAU)
 
 
-### 자바 예제
+### 자바 예제 & 스칼라 예제 코드
 
 * [src/main/java](https://github.com/hatemogi/scala-for-java-developers/tree/main/src/main/java) 디렉터리
 * [src/main/scala](https://github.com/hatemogi/scala-for-java-developers/tree/main/src/main/scala) 디렉터리

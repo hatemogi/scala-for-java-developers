@@ -11,5 +11,5 @@
 
 ### 자바 예제
 
-* src/main/java 디렉터리
-* src/main/scala 디렉터리
+* [src/main/java](https://github.com/hatemogi/scala-for-java-developers/tree/main/src/main/java) 디렉터리
+* [src/main/scala](https://github.com/hatemogi/scala-for-java-developers/tree/main/src/main/scala) 디렉터리
